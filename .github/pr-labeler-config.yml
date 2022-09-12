@@ -1,2 +1,2 @@
 ingestion:
-- any: [ 'ingestion/*', 'ingestion/**/*' ]
+- any: [ 'ingestion/**/*']
