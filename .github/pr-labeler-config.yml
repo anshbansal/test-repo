@@ -1,2 +1,5 @@
-ingestion:
+ingestion_sub:
 - 'ingestion/**/*'
+
+ingestion_top:
+- 'ingestion/*'
