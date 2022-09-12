@@ -1,5 +1,5 @@
 ingestion:
 - any: [
-  'folder1/*',
-  'folder1/**/*'
+  'ingestion/*',
+  'ingestion/**/*'
 ]
