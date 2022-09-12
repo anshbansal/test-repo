@@ -1,5 +1,5 @@
-ingestion:
-- any: [
-  'folder1/*',
-  'folder1/**/*'
-]
+ingestion_sub:
+- 'ingestion/**/*'
+
+ingestion_top:
+- 'ingestion/*'
